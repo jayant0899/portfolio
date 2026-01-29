@@ -9,7 +9,7 @@ export const siteConfig: SiteConfig = {
   ogImage: userConfig.ogImage,
   links: {
     github: userConfig.github,
-    twitter: userConfig.twitter,
+    // twitter: userConfig.twitter,
     linkedin: userConfig.linkedin,
   },
   nav: {

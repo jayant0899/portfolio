@@ -32,7 +32,7 @@ export type SiteConfig = {
   /** Social media and external profile links */
   links: {
     github: string;
-    twitter: string;
+    twitter?: string;
     linkedin: string;
   };
   /** Navigation structure for different parts of the site */
