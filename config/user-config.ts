@@ -11,7 +11,7 @@ export const userConfig: UserConfig = {
   // Socials 
   github: "https://github.com/jayant0899",
   twitter: "",
-  linkedin: "https://linkedin.com/in/jayant-kumar",
+  linkedin: "https://www.linkedin.com/in/jayant-kumar-b17b652b1",
 
   careerObjective:
     "A diligent and proactive B.Tech Computer Science and Engineering student with a solid foundation in software development. Proficient in Python, C, and C++, with a keen interest in algorithms, data structures, AI, and machine learning. Enthusiastic about leveraging technical skills to contribute to innovative projects.",
@@ -61,5 +61,5 @@ export const userConfig: UserConfig = {
 
   timeZone: "Asia/Kolkata",
   dateCreated: "2003-01-01", // Adjusted based on graduation timeline
-  calendarBookingUrl: "",
+  calendarBookingUrl: "https://calendar.app.google/fb6xCB15w3xyFkrZA",
 };

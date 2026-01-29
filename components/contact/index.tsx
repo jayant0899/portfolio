@@ -158,11 +158,11 @@ export function ContactSection() {
                       val: "REPOSITORIES",
                       url: userConfig.github,
                     },
-                    {
-                      label: "TWITTER",
-                      val: "SOCIAL_FEED",
-                      url: userConfig.twitter,
-                    },
+                    // {
+                    //   label: "TWITTER",
+                    //   val: "SOCIAL_FEED",
+                    //   url: userConfig.twitter,
+                    // },
                     { label: "LOCATION", val: userConfig.address, url: "#" },
                   ].map((item, i) => (
                     <div

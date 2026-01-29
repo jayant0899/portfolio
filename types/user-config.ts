@@ -12,7 +12,7 @@ export type UserConfig = {
   /** LinkedIn URL */
   linkedin: string;
   /** Twitter URL */
-  twitter: string;
+  twitter?: string;
 
   careerObjective: string;
   bio: string;
